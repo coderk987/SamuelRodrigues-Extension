@@ -10,55 +10,27 @@
             "css": ["main.css"]
         },
         {
-            "matches": ["codepen.io/"], 
+            "matches": ["https://codepen.io/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["google.com/"], 
+            "matches": ["https://google.com/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["discord.com/"], 
+            "matches": ["https://discord.com/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["youtube.com/"], 
+            "matches": ["https://youtube.com/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["techsyndicate.us/"], 
+            "matches": ["https://techsyndicate.us/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["usaco.guide/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["https://minesweeper.com/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["codepen.io/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["google.com/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["discord.com/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["youtube.com/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["techsyndicate.us/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["usaco.guide/"], 
+            "matches": ["https://usaco.guide/"], 
             "css": ["main.css"]
         },
         {
@@ -66,55 +38,27 @@
             "css": ["main.css"]
         },
         {
-            "matches": ["codepen.io/"], 
+            "matches": ["https://codepen.io/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["google.com/"], 
+            "matches": ["https://google.com/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["discord.com/"], 
+            "matches": ["https://discord.com/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["youtube.com/"], 
+            "matches": ["https://youtube.com/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["techsyndicate.us/"], 
+            "matches": ["https://techsyndicate.us/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["usaco.guide/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["https://minesweeper.com/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["codepen.io/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["google.com/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["discord.com/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["youtube.com/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["techsyndicate.us/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["usaco.guide/"], 
+            "matches": ["https://usaco.guide/"], 
             "css": ["main.css"]
         },
         {
@@ -122,27 +66,83 @@
             "css": ["main.css"]
         },
         {
-            "matches": ["codepen.io/"], 
+            "matches": ["https://codepen.io/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["google.com/"], 
+            "matches": ["https://google.com/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["discord.com/"], 
+            "matches": ["https://discord.com/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["youtube.com/"], 
+            "matches": ["https://youtube.com/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["techsyndicate.us/"], 
+            "matches": ["https://techsyndicate.us/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["usaco.guide/"], 
+            "matches": ["https://usaco.guide/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://minesweeper.com/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://codepen.io/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://google.com/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://discord.com/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://youtube.com/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://techsyndicate.us/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://usaco.guide/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://minesweeper.com/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://codepen.io/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://google.com/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://discord.com/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://youtube.com/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://techsyndicate.us/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://usaco.guide/"], 
             "css": ["main.css"]
         },
         {
@@ -158,43 +158,15 @@
             "css": ["main.css"]
         },
         {
-            "matches": ["youtube.com/"], 
+            "matches": ["https://youtube.com/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["techsyndicate.us/"], 
+            "matches": ["https://techsyndicate.us/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["usaco.guide/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["https://minesweeper.com/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["codepen.io/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["google.com/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["discord.com/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["youtube.com/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["techsyndicate.us/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["usaco.guide/"], 
+            "matches": ["https://usaco.guide/"], 
             "css": ["main.css"]
         },
         {
@@ -202,27 +174,27 @@
             "css": ["main.css"]
         },
         {
-            "matches": ["codepen.io/"], 
+            "matches": ["https://codepen.io/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["google.com/"], 
+            "matches": ["https://google.com/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["discord.com/"], 
+            "matches": ["https://discord.com/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["youtube.com/"], 
+            "matches": ["https://youtube.com/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["techsyndicate.us/"], 
+            "matches": ["https://techsyndicate.us/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["usaco.guide/"], 
+            "matches": ["https://usaco.guide/"], 
             "css": ["main.css"]
         },
         {
@@ -230,27 +202,55 @@
             "css": ["main.css"]
         },
         {
-            "matches": ["codepen.io/"], 
+            "matches": ["https://codepen.io/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["google.com/"], 
+            "matches": ["https://google.com/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["discord.com/"], 
+            "matches": ["https://discord.com/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["youtube.com/"], 
+            "matches": ["https://youtube.com/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["techsyndicate.us/"], 
+            "matches": ["https://techsyndicate.us/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["usaco.guide/"], 
+            "matches": ["https://usaco.guide/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://minesweeper.com/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://codepen.io/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://google.com/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://discord.com/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://youtube.com/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://techsyndicate.us/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://usaco.guide/"], 
             "css": ["main.css"]
         },
         {
@@ -258,43 +258,15 @@
             "css": ["main.css"]
         },
         {
-            "matches": ["youtube.com/"], 
+            "matches": ["https://youtube.com/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["techsyndicate.us/"], 
+            "matches": ["https://techsyndicate.us/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["usaco.guide/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["https://minesweeper.com/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["codepen.io/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["google.com/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["discord.com/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["youtube.com/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["techsyndicate.us/"], 
-            "css": ["main.css"]
-        },
-        {
-            "matches": ["usaco.guide/"], 
+            "matches": ["https://usaco.guide/"], 
             "css": ["main.css"]
         },
         {
@@ -302,27 +274,27 @@
             "css": ["main.css"]
         },
         {
-            "matches": ["codepen.io/"], 
+            "matches": ["https://codepen.io/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["google.com/"], 
+            "matches": ["https://google.com/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["discord.com/"], 
+            "matches": ["https://discord.com/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["youtube.com/"], 
+            "matches": ["https://youtube.com/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["techsyndicate.us/"], 
+            "matches": ["https://techsyndicate.us/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["usaco.guide/"], 
+            "matches": ["https://usaco.guide/"], 
             "css": ["main.css"]
         },
         {
@@ -330,32 +302,60 @@
             "css": ["main.css"]
         },
         {
-            "matches": ["codepen.io/"], 
+            "matches": ["https://codepen.io/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["google.com/"], 
+            "matches": ["https://google.com/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["discord.com/"], 
+            "matches": ["https://discord.com/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["youtube.com/"], 
+            "matches": ["https://youtube.com/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["techsyndicate.us/"], 
+            "matches": ["https://techsyndicate.us/"], 
             "css": ["main.css"]
         },
         {
-            "matches": ["usaco.guide/"], 
+            "matches": ["https://usaco.guide/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://minesweeper.com/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://codepen.io/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://google.com/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://discord.com/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://youtube.com/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://techsyndicate.us/"], 
+            "css": ["main.css"]
+        },
+        {
+            "matches": ["https://usaco.guide/"], 
             "css": ["main.css"]
         },
         {
             "matches": ["https://checkboxrace.com//"], 
             "css": ["main.css"]
-        },
+        }
     ]
 }
