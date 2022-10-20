@@ -6,12 +6,356 @@
     "permissions": ["tabs"],
     "content_scripts": [
         {
+            "matches": ["https://minesweeper.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["codepen.io/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["google.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["discord.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["youtube.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["techsyndicate.us/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["usaco.guide/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["https://minesweeper.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["codepen.io/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["google.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["discord.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["youtube.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["techsyndicate.us/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["usaco.guide/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["https://minesweeper.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["codepen.io/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["google.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["discord.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["youtube.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["techsyndicate.us/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["usaco.guide/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["https://minesweeper.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["codepen.io/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["google.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["discord.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["youtube.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["techsyndicate.us/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["usaco.guide/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["https://minesweeper.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["codepen.io/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["google.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["discord.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["youtube.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["techsyndicate.us/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["usaco.guide/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["https://checkboxrace.com//"], 
+            "css": ["style.css"]
+        },
+        {
             "matches": ["https://imgur.com/a/O7UISZW"], 
             "css": ["style.css"]
         },
         {
-            "matches": ["https://www.youtube.com/"], 
+            "matches": ["https://onesquareminesweeper.com/"], 
             "css": ["style.css"]
-        }
+        },
+        {
+            "matches": ["youtube.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["techsyndicate.us/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["usaco.guide/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["https://minesweeper.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["codepen.io/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["google.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["discord.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["youtube.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["techsyndicate.us/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["usaco.guide/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["https://minesweeper.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["codepen.io/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["google.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["discord.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["youtube.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["techsyndicate.us/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["usaco.guide/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["https://minesweeper.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["codepen.io/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["google.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["discord.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["youtube.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["techsyndicate.us/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["usaco.guide/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["https://checkboxrace.com//"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["youtube.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["techsyndicate.us/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["usaco.guide/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["https://minesweeper.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["codepen.io/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["google.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["discord.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["youtube.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["techsyndicate.us/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["usaco.guide/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["https://minesweeper.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["codepen.io/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["google.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["discord.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["youtube.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["techsyndicate.us/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["usaco.guide/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["https://minesweeper.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["codepen.io/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["google.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["discord.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["youtube.com/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["techsyndicate.us/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["usaco.guide/"], 
+            "css": ["style.css"]
+        },
+        {
+            "matches": ["https://checkboxrace.com//"], 
+            "css": ["style.css"]
+        },
     ]
 }
